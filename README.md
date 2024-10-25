@@ -13,12 +13,16 @@ In this project, I developed three interactive dashboards in Excel to provide ac
    - Insights into which days of the week generate the most profit, valuable for staffing, scheduling, and targeted marketing.
 4. **Product Analysis**: 
    - Top-selling and most profitable products, alongside product return and refund rates, critical for managing inventory and identifying key revenue drivers.
+![KixDashboard1](https://github.com/user-attachments/assets/4ea80829-9ec4-4985-9c68-aacd7209feff)
+
 
 #### **Dashboard 2: Store Performance**
 1. **Store Budget vs Revenue**: 
    - Comparative analysis of actual revenue versus targets for each store, helping identify under or over-performing stores.
 2. **Month-by-Month Analysis**: 
    - A month-by-month breakdown of revenue versus targets, highlighting variances for better financial planning and performance tracking.
+![KixDashboard3](https://github.com/user-attachments/assets/ada7605f-eedf-4f5b-ac24-a31c08aed3e1)
+
 
 #### **Dashboard 3: Revenue Trend Analysis**
 1. **Quarterly Revenue Analysis**: 
@@ -27,5 +31,7 @@ In this project, I developed three interactive dashboards in Excel to provide ac
    - Comparison of weekday versus weekend revenue to help make informed decisions about staffing and operations.
 3. **Monthly Revenue vs Target**: 
    - Monthly tracking of revenue against set targets, crucial for adjusting financial strategies and short-term planning.
+![KixDashboard4](https://github.com/user-attachments/assets/6582bd28-a524-4d52-8a84-f018df7bbc32)
+
 
 This project showcases my ability to create visually appealing and insightful dashboards using Excel, turning raw data into valuable insights that help businesses optimize operations, improve profitability, and plan effectively.
